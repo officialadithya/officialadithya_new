@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+------
 Adithya Bhaskara is a mathematics and computer science student at the University of Colorado Boulder who is extremely interested in theoretical computer science and the intersection between computer science and mathematics. This interest is precisely what motivated Bhaskara to pursue a double degree in the fields. At this time, he hopes for an academic career in theoretical computer science. 
 ------
 Bhaskara's current research interests lie in theoretical computer science and algorithmic economics. He hopes to learn more about computational social choice theory and computational complexity theory as well. Currently, Bhaskara is working with the University of Colorado Boulder's computer science theory group to learn about liquidity provisioning in decentralized exchanges. 
