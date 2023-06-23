@@ -1,5 +1,5 @@
 ---
-title: "Instructional Student Assistant: High School Algebra I"
+title: "Instructional Student Assistant: High School Algebra II"
 collection: teaching
 type: "High School"
 venue: "Silver Creek High School, Mathematics"
