@@ -10,7 +10,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-    - title: "Resume"
+  - title: "Resume"
     url: "https://officialadithya.github.io/files/resume/resume.pdf"
     
   # - title: "Portfolio"
