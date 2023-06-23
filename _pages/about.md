@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
 ------
 Adithya Bhaskara is a mathematics and computer science student at the University of Colorado Boulder who is extremely interested in theoretical computer science and the intersection between computer science and mathematics. This interest is precisely what motivated Bhaskara to pursue a double degree in the fields. At this time, he hopes for an academic career in theoretical computer science. 
 ------
